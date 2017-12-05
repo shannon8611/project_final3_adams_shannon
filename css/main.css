@@ -159,3 +159,23 @@ p  {
 	padding-left: 0.25em;
 	padding-right: 0.25em;
 }
+
+section h6 a {
+	text-decoration: none;
+	color: #333333;
+	border: 2px solid #333333;
+    box-sizing: border-box;
+	padding: 0.5em;
+}
+
+section p a:hover {
+	text-decoration: none;
+	color: #06b1af;
+}
+
+.quote {
+	background-color: #f0efef;
+	margin: auto;
+	text-align: center;
+	font-style: italic;
+}
