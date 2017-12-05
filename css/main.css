@@ -314,3 +314,24 @@ section p a:hover {
 			max-width: 90%;
 		}
 }
+
+/* footer */
+
+#footer-wrapper {
+	background-color: #f39e7a;
+	margin: auto;
+	text-align: center;
+	padding-bottom: 1em;
+}
+
+footer {
+    background-color: #eee5cc;
+    width: 100%;
+    padding: 2em 0;
+}
+
+footer p {
+    color: #404040;
+    margin: auto;
+    text-align: center;
+}
