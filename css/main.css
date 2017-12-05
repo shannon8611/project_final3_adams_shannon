@@ -243,3 +243,49 @@ section p a:hover {
 		max-width: 90%;
 	}
 }
+
+@media all and (max-width: 661px) {
+	nav ul li {
+		display: block;
+		margin: 0;
+		padding: 1em 0;
+		text-align: center;
+	}
+	h1 {
+		margin-top: 5.35em;
+		padding-left: 1.5em;
+		padding-right: 1.5em;
+	}
+	h2 {
+		padding-left: 1.5em;
+		padding-right: 1.5em;
+	}
+	h4 {
+		padding-left: 2em;
+		padding-right: 2em;
+	}
+	.quote {
+		padding-left: 2em;
+		padding-right: 2em;
+	}
+	#pricing {
+		padding-left: 2em;
+		padding-right: 2em;
+		max-width: 90%;
+	}
+	.col-2 {
+		padding: 0;
+	}
+	#intro-text {
+		padding-left: 1.875em;
+		padding-right: 1.875em;
+	}
+	.contact-p {
+		padding-left: 5em;
+		padding-right: 5em;
+	}
+	.specials-pics {
+		padding: 2em;
+		width: 100%;
+	}
+}
