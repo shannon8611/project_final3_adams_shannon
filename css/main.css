@@ -145,3 +145,11 @@ p  {
 	padding-left: 3em;
 	padding-right: 3em;
 }
+
+.featured {
+	background-color: white;
+	margin: auto;
+	text-align: center;
+	color: black;
+	padding: 1.5em 0;
+}
