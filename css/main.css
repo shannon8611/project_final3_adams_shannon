@@ -70,3 +70,59 @@ nav ul li a {
 nav ul li a:hover {
 	color: #b54e23;
 }
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.2em;
+	padding-top: 1.5em;
+    color: #404040;
+    text-align: center;
+}
+
+h2 {
+    font-family: "Pacifico", cursive;
+    font-size: 1.75em;
+    padding: 1em 0.5em 0 0.5em;
+    color: #06b1af;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5em;
+    color: black;
+    text-align: center;
+		padding-bottom: 1em;
+}
+
+h4 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.45em;
+		padding-top: 1em;
+    color: #404040;
+    text-align: center;
+}
+
+h5 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.25em;
+    color: white;
+    text-align: center;
+		padding-top: 1.5em;
+}
+
+h6  {
+    font-family: "Roboto", sans-serif;
+    font-size: 1.05em;
+}
+
+h7  {
+    font-family: "Roboto", sans-serif;
+    font-size: 1em;
+}
+
+p  {
+    font-family: "Roboto", sans-serif;
+    font-size: 1em;
+    line-height: 180%;
+}
