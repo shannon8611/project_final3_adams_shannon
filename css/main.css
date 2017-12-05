@@ -126,3 +126,12 @@ p  {
     font-size: 1em;
     line-height: 180%;
 }
+
+/* home page */
+
+.info {
+	background-color: #f0efef;
+	margin: auto;
+	text-align: center;
+	padding: 2em 0;
+}
