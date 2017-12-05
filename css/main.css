@@ -289,3 +289,12 @@ section p a:hover {
 		width: 100%;
 	}
 }
+
+@media all and (max-width: 695px) {
+
+	#pricing {
+		padding-left: 2em;
+		padding-right: 2em;
+		max-width: 90%;
+	}
+}
