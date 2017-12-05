@@ -179,3 +179,22 @@ section p a:hover {
 	text-align: center;
 	font-style: italic;
 }
+
+/* about page */
+
+.about {
+	background-color: #f0efef;
+	margin-top: 3.4em;
+	margin-bottom: -2.2em;
+	text-align: center;
+	padding-bottom: 2em;
+}
+
+.mission {
+	text-align: center;
+}
+
+.mission-p {
+	padding-left: 10em;
+	padding-right: 10em;
+}
