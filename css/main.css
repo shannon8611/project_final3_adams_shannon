@@ -298,3 +298,19 @@ section p a:hover {
 		max-width: 90%;
 	}
 }
+
+@media all and (max-width: 985px) {
+	#contact-p {
+		padding-left: 5em;
+		padding-right: 5em;
+	}
+    h5 {
+        padding-left: 1.2em;
+        padding-right: 1.2em;
+    }
+		#pricing {
+			padding-left: 2em;
+			padding-right: 2em;
+			max-width: 90%;
+		}
+}
