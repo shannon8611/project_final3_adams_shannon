@@ -198,3 +198,17 @@ section p a:hover {
 	padding-left: 10em;
 	padding-right: 10em;
 }
+
+/* services page */
+
+.specials {
+	text-align: center;
+}
+
+#js-rotating {
+	color: #d20072;
+}
+
+#pricing {
+	margin: auto;
+}
