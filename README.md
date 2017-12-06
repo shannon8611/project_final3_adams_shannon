@@ -36,6 +36,10 @@ Link to HTML5 Outliner for each page
 - [MouseOver](https://www.sitepoint.com/web-foundations/onmouseover-html-element/) and [MouseOut](https://developer.mozilla.org/en-US/docs/Web/Events/mouseout)
 	- I referred to the resources above to assist writing the code.
 
+###images
+
+- I used google search for my images.
+
 
 # Deductions
 - I reviewed the list of deductions for this project and in the syllabus.
