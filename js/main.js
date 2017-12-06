@@ -13,3 +13,8 @@ $(document).ready(function() {
 	    complete: function () {
 	    }
 	});
+	// This plugin allows images to slide in a carousel
+	$('.automatic-slider').unslider({
+		autoplay: true
+	});
+});
