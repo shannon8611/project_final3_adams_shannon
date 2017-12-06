@@ -18,3 +18,14 @@ $(document).ready(function() {
 		autoplay: true
 	});
 });
+// Custom JavaScript Code
+
+var customImage = document.getElementById ('custom');
+
+customImage.addEventListener( 'mouseover', function(){ //listens for mouse over on image
+	customImage.src = 'img/happycat.jpg'; //changes image
+});
+
+customImage.addEventListener( 'mouseout', function(){ //listens for mouse out on image
+	customImage.src = 'img/happycat.jpg'; //changes image back to original
+});
